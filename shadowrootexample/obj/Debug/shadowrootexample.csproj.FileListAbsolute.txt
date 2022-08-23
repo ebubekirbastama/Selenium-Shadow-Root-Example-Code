@@ -1,0 +1,13 @@
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\bin\Debug\shadowrootexample.exe.config
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\bin\Debug\shadowrootexample.exe
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\bin\Debug\shadowrootexample.pdb
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\bin\Debug\WebDriver.dll
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\obj\Debug\shadowrootexample.csproj.AssemblyReference.cache
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\obj\Debug\shadowrootexample.csproj.SuggestedBindingRedirects.cache
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\obj\Debug\shadowrootexample.Form1.resources
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\obj\Debug\shadowrootexample.Properties.Resources.resources
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\obj\Debug\shadowrootexample.csproj.GenerateResource.cache
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\obj\Debug\shadowrootexample.csproj.CoreCompileInputs.cache
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\obj\Debug\shadowrootexample.csproj.CopyComplete
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\obj\Debug\shadowrootexample.exe
+C:\Users\siyahmuhafiz\source\repos\shadowrootexample\shadowrootexample\obj\Debug\shadowrootexample.pdb
